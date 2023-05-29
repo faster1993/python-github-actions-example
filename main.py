@@ -1,15 +1,4 @@
-def hello():
-    print("hi")
+# This program prints Hello, world!
 
+print('Hello, world!')
 
-def bye():
-    print("bye")
-    
-    
-def how_are_you():
-    print("how are you!!!")
-
-
-print(hello())
-print(bye())
-print(how_are_you())
