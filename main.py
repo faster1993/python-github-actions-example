@@ -6,7 +6,7 @@ def bye():
     print("bye")
     
     
- def how_are_you():
+def how_are_you():
     print("how are you!!")
 
 
