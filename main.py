@@ -11,3 +11,5 @@ def how_are_you():
 
 
 print(hello())
+print(bye())
+print(how_are_you())
